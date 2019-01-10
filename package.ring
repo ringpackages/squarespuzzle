@@ -1,36 +1,34 @@
 aPackageInfo = [
-	:name = "The squarespuzzle Package",
-	:description = "Our squarespuzzle package using the Ring programming language",
+	:name = "The SquaresPuzzle Package",
+	:description = "Our SquaresPuzzle package using the Ring programming language",
 	:folder = "squarespuzzle",
-	:developer = "YourName",
-	:email = "YourEmail",
+	:developer = "Mahmoud Fayed",
+	:email = "msfclipper@yahoo.com",
 	:license = "MIT License",
-	:version = "0.1.0",
+	:version = "1.0.0",
 	:ringversion = "1.10",
 	:versions = 	[
 		[
-			:version = "0.1.0",
+			:version = "1.0.0",
 			:branch = "master"
 		]
 	],
 	:libs = 	[
 		[
-			:name = "",
-			:version = "",
+			:name = "RingAllegro",
+			:version = "1.0",
 			:providerusername = ""
 		]
 	],
 	:files = 	[
-		"lib.ring",
 		"main.ring",
-		"applications/squarespuzzle/pirulen.ttf",
-		"applications/squarespuzzle/README.md",
-		"applications/squarespuzzle/sp-palace.jpg",
-		"applications/squarespuzzle/squarespuzzle.ring",
 		"README.md"
 	],
 	:ringfolderfiles = 	[
-
+		"applications/squarespuzzle/pirulen.ttf",
+		"applications/squarespuzzle/README.md",
+		"applications/squarespuzzle/sp-palace.jpg",
+		"applications/squarespuzzle/squarespuzzle.ring"
 	],
 	:windowsfiles = 	[
 
