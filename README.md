@@ -8,4 +8,4 @@ SquaresPuzzle package for the Ring programming language
 
 ## Author
 
-	This game is developed by Gal Zsolt
+	This game is developed by Majdi Sobain
